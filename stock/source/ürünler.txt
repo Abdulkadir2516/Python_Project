@@ -1,0 +1,7 @@
+barkodu,urun_adi,cinsi,tedarikci,alis_fiyati,satis_fiyati,alt_limit,urun_adeti,
+01,bardak,porselen,seramika,4,6,3,-10,
+02,kalem,kırtasıye,ofis,2,5,20,-89,
+03,silgi,kırtasiye,ofis,8,12,8,58,
+04,dsgadfgfsa,fgadgfdga,gfdagfadg,1,2,99,2000,
+04,vdsavn,gsgsdf,fdsfsdf,80,110,5,15,
+02,46456,4556465,5616545,25,36,5,24,
